@@ -1,4 +1,4 @@
-# DRF Selfedu - My First API Project with Django REST Framework 🚀
+# DRF Selfedu - My First API Project with Django REST Framework
 
 This is my first API project built using **Django REST Framework (DRF)**. It serves as a foundational step in mastering API development with Django.
 
